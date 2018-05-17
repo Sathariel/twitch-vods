@@ -1,0 +1,16 @@
+{
+  "name": "twitch-vods",
+  "version": "0.0.1",
+  "description": "Simple application to look up vods for Twitch streams.",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-session": "^1.15.6",
+    "handlebars": "^4.0.11",
+    "passport": "^0.4.0",
+    "passport-oauth": "^1.0.0",
+    "request": "^2.86.0"
+  },
+  "devDependencies": {},
+  "author": "Hieu Trang"
+}
